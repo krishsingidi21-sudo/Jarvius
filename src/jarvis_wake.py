@@ -322,7 +322,7 @@ print(
     "Say 'exit' or 'goodbye' to stop."
 )
 
-
+print("Jarvius is online. I'm ready to listen.")
 # ==========================================
 # CONTINUOUS CONVERSATION
 # ==========================================
